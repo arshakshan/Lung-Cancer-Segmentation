@@ -37,32 +37,6 @@ Convolutional Neural Network (CNN): The optimized segmented images are used to t
 - Segmentation Accuracy: CSA optimized K-means exhibited the highest segmentation accuracy of 96.95%.
 - Classification Accuracy: The CNN model trained on CSA optimized segmented images achieved an overall classification accuracy of 97.25% with a sensitivity of 0.957.
 
-## Repository Structure
-```bash
-src/
-│
-├── data/
-│   ├── raw/                   # Raw CT scan images
-│   └── preprocessed/          # Preprocessed images
-│
-├── segmentation/
-│   ├── kmeans.m               # K-means segmentation code
-│   ├── abc_optimization.m     # ABC optimization code
-│   ├── pso_optimization.m     # PSO optimization code
-│   ├── ffa_optimization.m     # FFA optimization code
-│   └── csa_optimization.m     # CSA optimization code
-│
-├── classification/
-│   ├── cnn_training.m         # CNN training script
-│   └── cnn_classification.m   # CNN classification script
-│
-├── results/
-│   ├── segmentation/          # Segmentation results and analysis
-│   └── classification/        # Classification results and analysis
-│
-├── README.md                  # Project README file
-└── Lung_Cancer_Segmentation_Classification.pdf  # Research paper
-```
 ## Usage
 
 1. Clone the repository:
