@@ -8,7 +8,7 @@ This repository contains the MATLAB implementation for lung cancer segmentation 
 ## Research Paper
 - Title: Swarm Intelligence Inspired Lung Cancer Segmentation and Classification
 - Author: Arshak Shan Shajahan
-- Published In: International Journal of Enhanced Research in Science, Technology & Engineering, Vol. 10 Issue 10, October 2021
+- Published In: International Journal of Enhanced Research in Science, Technology & Engineering, Vol. 10 Issue 10, October 2021. [View Paper](https://erpublications.com/uploaded_files/download/arshak-shan-shajahan_cRKJC.pdf)
 - Impact Factor: 7.957
 
 ## Abstract: 
